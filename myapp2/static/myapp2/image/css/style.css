@@ -1,0 +1,17 @@
+body {
+    font-family: 'Courier New';
+    color: blue;
+}
+
+.grid{
+    display: grid;
+    grid-template:1fr 2fr;
+}
+
+.okey{
+    background-color: green;
+}
+
+.no-okey{
+    background-color: red;
+}
